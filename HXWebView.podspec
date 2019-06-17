@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HXWebView'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'wkwebview simple encapsulate'
 
   s.homepage         = 'https://github.com/yiyucanglang'
